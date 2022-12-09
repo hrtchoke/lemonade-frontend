@@ -86,7 +86,7 @@ li {
   border: 1px solid #a4c703;
   font-size: 20px;
   padding: 5px 15px;
-  color: #e4e4e4;
+  color: white;
   background-color: #a4c703;
   position: absolute;
   right: 12%;
@@ -108,7 +108,7 @@ a {
   border: 1px solid #a4c703;
   font-size: 20px;
   padding: 5px 21px;
-  color: #e4e4e4;
+  color: white;
   background-color: #a4c703;
   position: absolute;
   right: 12%;

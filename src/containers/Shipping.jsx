@@ -99,7 +99,7 @@ const Shipping = () => {
           <div class="total">
             <h3>Shipment Details</h3>
             <br />
-            <p>Please Check Your Item and Confirm it</p>
+            <p>Please check your items and confirm your order.</p>
           </div>
           <br />
           <div class="order1">
